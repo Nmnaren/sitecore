@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{61DB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Legal", "Legal", "{6E37A750-6E7F-406F-B7E7-BE329C9D1791}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Demo.Legal.Website", "src\Project\Legal\code\Sitecore.Demo.Legal.Website.csproj", "{0BC33B3D-3E16-4C5C-BDB7-9C06CC52C715}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Demo.Legal.Website", "src\Project\Legal\code\Sitecore.Demo.Legal.Website.csproj", "{0BC33B3D-3E16-4C5C-BDB7-9C06CC52C715}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{DB09CB9A-DEF0-43BF-B0C6-41C57E1D81C2}"
 	ProjectSection(SolutionItems) = preProject
@@ -25,33 +25,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Print", "Print", "{328C0A4F-8409-4FF2-B6A6-F340C844F338}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Print", "src\Foundation\Print\code\Sitecore.Foundation.Print.csproj", "{8A3B0F1F-5CC2-49A9-9F80-EFACBD7EBC02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Print", "src\Foundation\Print\code\Sitecore.Foundation.Print.csproj", "{8A3B0F1F-5CC2-49A9-9F80-EFACBD7EBC02}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Brochure", "Brochure", "{0AB93838-F2C6-4E09-AF30-D02C3E9C7986}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Brochure", "src\Feature\Brochure\code\Sitecore.Feature.Brochure.csproj", "{78298D6F-E94D-4E88-A822-E55ED8A448EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Brochure", "src\Feature\Brochure\code\Sitecore.Feature.Brochure.csproj", "{78298D6F-E94D-4E88-A822-E55ED8A448EB}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Brochure.Tests", "src\Feature\Brochure\tests\Sitecore.Feature.Brochure.Tests.csproj", "{7D11A602-E7AD-4836-B4A1-7E30E1609A6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Brochure.Tests", "src\Feature\Brochure\tests\Sitecore.Feature.Brochure.Tests.csproj", "{7D11A602-E7AD-4836-B4A1-7E30E1609A6F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Newsletter", "Newsletter", "{EC57A49B-78A7-4D1E-A77A-8538B4CF9A3B}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Newsletter", "src\Feature\Newsletter\code\Sitecore.Feature.Newsletter.csproj", "{81B8052F-6E9D-4624-ABA6-49319939A675}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Newsletter", "src\Feature\Newsletter\code\Sitecore.Feature.Newsletter.csproj", "{81B8052F-6E9D-4624-ABA6-49319939A675}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Newsletter.Tests", "src\Feature\Newsletter\tests\Sitecore.Feature.Newsletter.Tests.csproj", "{1B143302-8132-4F7F-B87C-C7B7E5B8E098}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Newsletter.Tests", "src\Feature\Newsletter\tests\Sitecore.Feature.Newsletter.Tests.csproj", "{1B143302-8132-4F7F-B87C-C7B7E5B8E098}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Print.Tests", "src\Foundation\Print\tests\Sitecore.Foundation.Print.Tests.csproj", "{0B525AD2-4402-4EDB-A4AF-A75B65172A09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Print.Tests", "src\Foundation\Print\tests\Sitecore.Foundation.Print.Tests.csproj", "{0B525AD2-4402-4EDB-A4AF-A75B65172A09}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Finance", "Finance", "{D2F18865-29D5-49F3-B45C-DCA8A1E84363}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Demo.Finance.Website", "src\Project\Finance\code\Sitecore.Demo.Finance.Website.csproj", "{5A487721-997A-438E-B92B-69EA40CE2C60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Demo.Finance.Website", "src\Project\Finance\code\Sitecore.Demo.Finance.Website.csproj", "{5A487721-997A-438E-B92B-69EA40CE2C60}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{3DB302D6-9C95-4AB1-AE7C-35BD41624271}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Demo.Utilities.Website", "src\Project\Utilities\code\Sitecore.Demo.Utilities.Website.csproj", "{206C8972-8751-4C22-BDC7-4608EFC14F13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Demo.Utilities.Website", "src\Project\Utilities\code\Sitecore.Demo.Utilities.Website.csproj", "{206C8972-8751-4C22-BDC7-4608EFC14F13}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{BCF5B9A9-83E9-4D65-B78D-16C0F81BBF08}"
 EndProject
-#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Testing", "src\Foundation\Testing\tests\Sitecore.Foundation.Testing.csproj", "{7CC3D72B-4518-4B78-BE48-630A263C0F5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Testing", "src\Foundation\Testing\tests\Sitecore.Foundation.Testing.csproj", "{7CC3D72B-4518-4B78-BE48-630A263C0F5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
